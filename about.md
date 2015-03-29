@@ -4,7 +4,6 @@ title: "Christophe Robillard"
 date: 2015-03-28 12:00:00
 featured_image: /images/robi_foret.jpg
 tagline: geek, musicien, de gauche
-meetup: true
 ---
 - J'aime manger [des pommes de terre et je le montre](https://www.youtube.com/watch?v=kDd1gK3SGvM).
 - J'aime pianoter sur mon clavier pour développer des applications web. Je travaille notamment sur [Merci Edgar](http://www.merciedgar.com), un logiciel d'aide à la prospection dédié aux artistes, dont le code est désormais libre.
@@ -12,6 +11,4 @@ meetup: true
 
 ## Et si on se rencontrait ?
 
-Quittez votre ordinateur et retrouvons nous tous les 1ers mercredis de chaque mois au Green Café ! Nous pourrons chanter tous ensemble derrière mon piano, livrets de parole et verre à la main, à la cool...
-
-<a href="http://www.meetup.com/Paris-Singing-Meetup/events/220734928/" data-event="220734928" class="mu-rsvp-btn">S'inscrire</a>
+Quittez votre ordinateur et [retrouvons nous tous les 1ers mercredis du mois](http://www.meetup.com/Paris-Singing-Meetup) au Green Café ! Nous pourrons chanter tous ensemble derrière mon piano, livrets de parole et verre à la main, à la cool...
