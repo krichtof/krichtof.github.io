@@ -2,7 +2,7 @@
 layout: page
 title: "Christophe Robillard"
 date: 2015-03-28 12:00:00
-featured_image: /images/launch.jpg
+featured_image: /images/robi_foret.jpg
 tagline: geek, musicien, de gauche
 ---
 
