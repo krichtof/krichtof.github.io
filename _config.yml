@@ -5,6 +5,6 @@ author_tagline: 'musicien, geek, de gauche...'
 sidebar_image: /images/back_moustier.jpg
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 # baseurl: /strange_case # the subpath of your site, e.g. /blog/
