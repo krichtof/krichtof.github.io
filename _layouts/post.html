@@ -1,0 +1,60 @@
+---
+layout: default
+---
+{% if page.featured_image %}
+<header style="background-image: url({{ site.baseurl }}{{ page.featured_image }});">
+{% else %}
+<header style="background-image: url({{ site.baseurl }}{{ site.featured_image }});">
+{% endif %}
+  <div class="container post-container">
+    <a href="{{ site.baseurl }}/" class="home_button"></a>
+    <div class="inner-container">
+      <h1>{{ page.title }}</h1>
+      <ul class="meta">
+        <li>
+          <span>
+            Publié
+          </span>
+          {{ page.date | date_to_string }}
+        </li>
+        <li>
+          <span>
+            Catégories
+          </span>
+          {{ page.categories }}
+        </li>
+        <li>
+          <span>
+            Ecrit par
+          <span>
+          <a href="/about.html">Christophe Robillard</a>
+      </ul>      
+    </div>
+    <ul class="pagination">
+      {% if page.previous.url %}
+        <li class="previous">
+          <a href="{{ site.baseurl }}{{ page.previous.url }}">
+            Précédent
+          </a>
+        </li>
+      {% endif %}
+      {% if page.next.url %}
+      <li class="next">
+        <a href="{{ site.baseurl }}{{ page.next.url }}">
+          Suivant
+        </a>
+      </li>
+      {% endif %}
+    </ul>
+  </div>
+</header>
+
+<article>
+  <div class="container">
+    {{ content }}
+    {% if page.comments  %}
+    {% include _disqus.html %}
+    {% endif %}
+  </div>
+</article>
+
