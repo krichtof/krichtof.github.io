@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "C'est lundi, c'est parti !"
-date: 2015-03-28
+date: 2015-03-30
 categories: libre
 featured_image: /images/launch.jpg
 comments: true
