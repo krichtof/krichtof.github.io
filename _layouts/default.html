@@ -11,13 +11,13 @@
   <meta property="og:title" content="{{ page.title }}"/>
   <meta property="og:site_name" content="{{ site.title }}"/>
   <meta property="og:type" content="article"/>
-  <meta property="og:image" content="{{ page.featured_image }}"/>
+  <meta property="og:image" content="http://{{ site.host }}{{ page.featured_image }}"/>
   {% else %}
   <meta property="og:title" content="{{ site.title }}"/>
   <meta property="og:site_name" content="{{ site.title }}"/>
-  <meta property="og:url" content="http://tempslibre.robillard.pro/"/>
+  <meta property="og:url" content="http://{{ site.host }}"/>
   <meta property="og:type" content="article"/>
-  <meta property="og:image" content="{{ site.baseurl }}{{ site.sidebar_image }}"/>
+  <meta property="og:image" content="http://{{ site.host }}{{ site.baseurl }}{{ site.sidebar_image }}"/>
   {% endif %}
 
   <!-- syntax highlighting CSS -->
