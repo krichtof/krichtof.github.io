@@ -4,10 +4,10 @@ title: "C'est lundi, c'est parti !"
 date: 2015-03-28
 categories: libre
 featured_image: /images/launch.jpg
-comments: false
+comments: true
 ---
 
-Bah ouais je suis égocentrique ! Alors comme tout égocentrique qui se respecte et qui se regarde un peu le nombril, je ne vais pas faire dans l'originalité, j'ouvre mon blog perso ! Il aura pour titre : *Temps libre* ... Parce que la première des libertés, c'est d'avoir du temps ... Et ça tombe bien, j'ai toujours organisé ma vie pour avoir du temps libre (mon activité rémunérée me prend de 8 à 12 jours maximum par mois). Il sera question notamment dans ce blog de changer le monde, de prendre le temps pour en gagner, de spectacle, d'informatique... J'essaierai de profiter de ce blog pour aller poser des questions, caméra en main,  à celles et ceux qui mouillent la chemise, les passionnés, les chercheurs et les trouveurs...
+Comme tout égocentrique qui se respecte et qui se regarde un peu le nombril, je ne vais pas faire dans l'originalité, j'ouvre mon blog perso ! Il aura pour titre : *Temps libre* ... Parce que la première des libertés, c'est d'avoir du temps ... Et ça tombe bien, j'ai toujours organisé ma vie pour avoir du temps libre (mon activité rémunérée me prend de 8 à 12 jours maximum par mois). Il sera question notamment dans ce blog de prendre le temps pour en gagner, de spectacle, d'informatique, de changer le monde... J'essaierai de profiter de ce blog pour aller poser des questions, caméra en main,  à celles et ceux qui mouillent la chemise, les passionnés, les chercheurs et les trouveurs...
 
 ## Si vous ne venez pas, j'annule tout !
 

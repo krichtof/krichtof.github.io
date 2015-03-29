@@ -12,3 +12,5 @@ tagline: geek, musicien, de gauche
 ## Et si on se rencontrait ?
 
 Quittez votre ordinateur et [retrouvons nous tous les 1ers mercredis du mois](http://www.meetup.com/Paris-Singing-Meetup) au Green Café ! Nous pourrons chanter tous ensemble derrière mon piano, livrets de parole et verre à la main, à la cool...
+
+![Piano Kismar](/images/chanteurskismar.jpg)
