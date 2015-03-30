@@ -20,7 +20,7 @@ Pour ne pas virer dans le narcissime le plus total, j'essaierai de profiter de c
 
 ## Si vous ne venez pas, j'annule tout !
 
-Je sens d'avance que cette nouvelle aventure pour moi risque d'être passionnante... Mais tout dépend de vous ! Si vous ne voulez pas me frustrer, j'espère bien que vous m'accompagnerez dans cette expérience, et que vous userez également de votre plume pour y déposer vos commentaires. Notamment lorsque vous ne serez pas d'accord avec moi ;) Je compte sur vous !
+Je sens d'avance que cette nouvelle aventure pour moi risque d'être passionnante... Mais tout dépend de vous ! Si vous ne voulez pas me frustrer, j'espère bien que vous m'accompagnerez dans cette expérience, et que vous userez également de votre plume pour y déposer vos commentaires. Notamment lorsque vous ne serez pas d'accord avec moi... Je compte sur vous !
 
 A très vite pour mon prochain post, où je vous livrerai, excusez du peu, "ma recette du bonheur" !
 
