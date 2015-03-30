@@ -7,17 +7,13 @@
   <meta name="viewport" content="width=device-width">
   
   <!-- facebook meta tags -->
-  {% if page.title %}
-  <meta property="og:title" content="{{ page.title }}"/>
-  <meta property="og:site_name" content="{{ site.title }}"/>
-  <meta property="og:type" content="article"/>
-  <meta property="og:url" content="http://{{ site.host }}"/>
-  <meta property="og:image" content="http://{{ site.host }}{{ site.baseurl }}{{ site.sidebar_image }}"/>
-  {% else %}
   <meta property="og:title" content="{{ site.title }}"/>
   <meta property="og:site_name" content="{{ site.title }}"/>
-  <meta property="og:url" content="http://{{ site.dnshost }}"/>
+  <meta property="og:url" content="http://{{ site.host }}{{ page.url }}"/>
   <meta property="og:type" content="article"/>
+  {% if page.featured_image %}
+  <meta property="og:image" content="http://{{ site.host }}{{ site.baseurl }}{{ page.featured_image }}"/>
+  {% else %}
   <meta property="og:image" content="http://{{ site.host }}{{ site.baseurl }}{{ site.sidebar_image }}"/>
   {% endif %}
 
