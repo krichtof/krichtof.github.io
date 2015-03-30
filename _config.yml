@@ -3,6 +3,7 @@ title: 'Temps Libre' # Your Title
 tagline: 'Le journal perso de Christophe Robillard' # A brief tagline for your site
 author_tagline: 'musicien, geek, de gauche...'
 sidebar_image: /images/back_moustier.jpg
+dnshost: tempslibre.robillard.pro
 # Build settings
 markdown: kramdown
 highlighter: pygments
