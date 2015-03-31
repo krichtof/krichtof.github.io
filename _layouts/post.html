@@ -17,21 +17,33 @@ layout: default
           </span>
           {{ page.date | date_to_string }}
         </li>
+        {% if page.tags.size > 0 %}
         <li>
           <span>
-            Catégories
+            Tags
           </span>
-          {{ page.categories }}
+          {% for tag in page.tags %}
+            <span><a href="/tag/{{ tag }}">{{ tag }}</a></span>
+          {% endfor %}
         </li>
+        {% endif %}
+        <li>
+          <span>Issu du blog <a href="/">Temps Libre</a></span>
+        </li>  
         <li>
           <span>
             Ecrit par
             <span>
               <a href="/about.html">Christophe Robillard</a>
-            (<a href="https://twitter.com/krichtof" target="_blank">Twitter</a>, 
-            <a href="https://www.linkedin.com/profile/view?id=158437684" target="_blank">LinkedIn</a>)
           </span>            
           </span>
+        </li>
+        <li>
+          <span>
+            <a href="https://twitter.com/krichtof" target="_blank">Twitter</a>, 
+           <a href="https://www.linkedin.com/profile/view?id=158437684" target="_blank">LinkedIn</a>
+          </span>
+        </li>
       </ul>      
     </div>
     <ul class="pagination">

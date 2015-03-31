@@ -7,4 +7,5 @@ dnshost: tempslibre.robillard.pro
 # Build settings
 markdown: kramdown
 highlighter: pygments
+timezone: Europe/Paris
 # baseurl: /strange_case # the subpath of your site, e.g. /blog/
