@@ -355,3 +355,11 @@ ul.posts .meta {
 ul.posts p {
   margin-bottom: 36px;
 }
+
+/* Images in article */
+
+.callout {
+    float: right;
+    padding: 0px 25px;
+}
+}
