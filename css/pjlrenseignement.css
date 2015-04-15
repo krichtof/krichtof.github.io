@@ -1,0 +1,41 @@
+.jc-tag{
+        border-radius: 3px;
+        background-color: #666;        
+        padding: 0 4px 0 4px ;
+        color: #fff;
+        line-height: 20px;
+}
+.jc-tag a{
+        color: #fff;
+        text-decoration: none;
+}
+.jc-tag a:hover{
+        color: #cf0;
+        text-decoration: none;
+}
+
+
+#pjlrenseignement {
+        position: fixed;
+        background: rgba(0,0,0,0.8);
+        color: white;
+        width: 100%;
+        top: 0px;
+        left:0px;        
+        font-family: verdana;
+        font-size: 12px;
+}
+#pjlrenseignement p{
+        margin: 5px;
+}
+#pjlrenseignement a.jc-tag{
+        text-decoration: none;
+        background-color: #4464D2;
+        display: inline-block;
+}
+a.jc-tag-info{
+        color: #4464D2;        
+}
+.pjl-info{
+        text-align: right;
+}
