@@ -11,6 +11,7 @@
   <meta property="og:site_name" content="{{ site.title }}"/>
   <meta property="og:url" content="http://{{ site.dnshost }}{{ page.url }}"/>
   <meta property="og:type" content="article"/>
+  <meta name="twitter:description" content="{{ page.excerpt }}" />
   {% if page.featured_image %}
   <meta property="og:image" content="http://{{ site.dnshost }}{{ site.baseurl }}{{ page.featured_image }}"/>
   {% else %}
