@@ -358,6 +358,10 @@ ul.posts p {
 
 /* Images in article */
 
+article img {
+  max-width: 100%;
+}
+
 .callout {
     float: right;
     padding: 0px 25px;
