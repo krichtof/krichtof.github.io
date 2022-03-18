@@ -6,8 +6,9 @@ featured_image: /images/5-decembre.jpg
 published: true
 comments: false
 tags:
-- informatique
+- politique
 ---
+
 
 J'entends parfois des ami·e·s (de moins en moins) hésiter à voter Mélenchon parce que sa personnalité leur déplaît. Ils sont globalement d'accord avec le programme qu'il présente mais l'homme ne leur revient pas. C'est à ces ami·e·s que j'ai envie de m'adresser aujourd'hui.
 
@@ -30,3 +31,7 @@ Et du coup, si la promesse d'une 6e République par une Constituante n'était pa
 N'oublions pas que nous sommes le pays où nous avons coupé la tête du roi...
 
 Voilà les ami·e·s, vous voterez bien pour qui vous voudrez. J'espère en tout cas que ces quelques lignes vous donneront du grain à moudre ;)
+
+![Manif 6e Republique](/images/6erepu.jpg)
+
+Et peut-être à **dimanche 20 mars à Paris** à [la marche pour la 6e République](https://linsoumission.fr/2022/03/15/melenchon-marche-6eme-republique/) !
