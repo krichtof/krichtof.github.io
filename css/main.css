@@ -43,6 +43,10 @@ h2 {
   color: #CE2323;
 }
 
+strong {
+  font-weight: 800;
+}
+
 blockquote {
   border-left: 5px solid #ddd;
   margin: 40px 1em;
